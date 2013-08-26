@@ -5,44 +5,44 @@
   <version>15.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130826.110551</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20130826.113741</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
-    <lastUpdated>20130826110551</lastUpdated>
+    <lastUpdated>20130826113741</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>15.0-20130826.110551-3</value>
-        <updated>20130826110551</updated>
+        <value>15.0-20130826.113741-4</value>
+        <updated>20130826113741</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>15.0-20130826.110551-3</value>
-        <updated>20130826110551</updated>
+        <value>15.0-20130826.113741-4</value>
+        <updated>20130826113741</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>15.0-20130826.110551-3</value>
-        <updated>20130826110551</updated>
+        <value>15.0-20130826.113741-4</value>
+        <updated>20130826113741</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>site</classifier>
         <extension>jar</extension>
-        <value>15.0-20130826.110551-3</value>
-        <updated>20130826110551</updated>
+        <value>15.0-20130826.113741-4</value>
+        <updated>20130826113741</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>15.0-20130826.110551-3</value>
-        <updated>20130826110551</updated>
+        <value>15.0-20130826.113741-4</value>
+        <updated>20130826113741</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>test-sources</classifier>
         <extension>jar</extension>
-        <value>15.0-20130826.110551-3</value>
-        <updated>20130826110551</updated>
+        <value>15.0-20130826.113741-4</value>
+        <updated>20130826113741</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
