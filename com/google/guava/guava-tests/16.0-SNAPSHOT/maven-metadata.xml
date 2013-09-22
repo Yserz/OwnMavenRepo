@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.google.guava</groupId>
+  <artifactId>guava-tests</artifactId>
+  <version>16.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130922.113738</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20130922113738</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>16.0-20130922.113738-3</value>
+        <updated>20130922113738</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>16.0-20130922.113738-3</value>
+        <updated>20130922113738</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>site</classifier>
+        <extension>jar</extension>
+        <value>16.0-20130922.113738-3</value>
+        <updated>20130922113738</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>test-sources</classifier>
+        <extension>jar</extension>
+        <value>16.0-20130922.113738-3</value>
+        <updated>20130922113738</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
